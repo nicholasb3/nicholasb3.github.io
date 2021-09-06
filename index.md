@@ -1,4 +1,3 @@
-<img src supermyl%20logo.png>
 
 # supermyl's site
 
