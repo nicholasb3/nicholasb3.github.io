@@ -7,7 +7,14 @@ hi. i'm supermyl
 
 im just some person who likes technology
 
+twitch - https://twitch.tv/superm__yl i might do some streams on there
+## Contact Me
+
 discord: SuperMYL#8507
+
+use github issues if you dont wanna use github
+
+link to my github profile - https://github.com/superm-yl 
 
 ## Files
 
@@ -23,5 +30,9 @@ supermylOS - https://superm-yl.github.io/supermylOS
 
 theme for firefox - https://addons.mozilla.org/firefox/addon/supermylstheme/
 
+collabvm - https://computernewb.com/collab-vm
 
-supermyl site version 4.0
+
+supermyl site version 4u2
+
+More Is Coming Soon:tm:
