@@ -16,6 +16,8 @@ use github issues if you dont wanna use github
 
 link to my github profile - https://github.com/superm-yl 
 
+bitbucket (idk why but i might use this sometimes) https://bitbucket.org/superm-yl
+
 ## Files
 
 Windows 10 Upgrade Assistant - https://drive.google.com/file/d/158zR5K89MNb6VVETtrqwxuw6SNoqDXY0/view?usp=sharing
