@@ -18,6 +18,8 @@ link to my github profile - https://github.com/superm-yl
 
 bitbucket (idk why but i might use this sometimes) https://bitbucket.org/superm-yl
 
+guilded - https://guilded.gg/superm-yl
+
 ## Files
 
 Windows 10 Upgrade Assistant - https://drive.google.com/file/d/158zR5K89MNb6VVETtrqwxuw6SNoqDXY0/view?usp=sharing
@@ -35,6 +37,4 @@ theme for firefox - https://addons.mozilla.org/firefox/addon/supermylstheme/
 collabvm - https://computernewb.com/collab-vm
 
 
-supermyl site version 4u2
-
-More Is Coming Soon:tm:
+supermyl site version 5
